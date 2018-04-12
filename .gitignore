@@ -366,3 +366,6 @@ ASALocalRun/
 *.exe
 *.out
 *.app
+
+**/.vs/
+**/.vscode/
